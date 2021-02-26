@@ -1,4 +1,4 @@
-import * as f from '@start/f'
+import * as f from 'f'
 
 export default (key) =>
   new Promise(function (resolve) {

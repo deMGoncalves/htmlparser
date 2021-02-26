@@ -1,6 +1,8 @@
 export { default } from './h'
+export { default as cookie } from './cookie'
 export { default as Fragment } from './fragment'
 export { default as Hide } from './hide'
+export { default as location } from './location'
 export { default as paint } from './paint'
 export { default as render } from './render'
 export { default as repaint } from './repaint'
